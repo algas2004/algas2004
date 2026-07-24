@@ -1,16 +1,13 @@
-# Hi there 👋, I'm Alghas Saputra
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I'm+ALGAS+SAPUTRA;Developer+from+Indonesia;Always+Learning+New+Things" alt="Typing SVG" />
-</p>
+# Hi there, I'm Algas Saputra 👋
 
 ## 🚀 About Me
 
-- 👤 **Name:** ALGAS SAPUTRA
-- 💻 **GitHub:** [@algas2004](https://github.com/algas2004)
-- 📍 **Location:** Jawa Barat, Indonesia
+I'm **Algas Saputra**, a software developer from **West Java, Indonesia** 🇮🇩 who enjoys building useful applications and continuously learning new technologies.
+
 - 🌱 Currently learning new technologies and improving my programming skills.
-- ⚡ Interested in software development, open source, and modern web technologies.
+- 💻 Interested in software development and modern web technologies.
+- 🤝 Open to collaborating on open-source projects.
+- ⚡ Always excited to learn, build, and solve real-world problems.
 
 ---
 
@@ -22,8 +19,12 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -35,26 +36,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=algas2004&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=algas2004&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=algas2004&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api?username=algas2004&show_icons=true&theme=tokyonight" height="170" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-algas2004-181717?style=for-the-badge&logo=github)](https://github.com/algas2004)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=algas2004&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+## 💭 Quote
 
----
+> *"Keep learning, keep building, and never stop improving."*
 
-> *"Code, Learn, Build, Repeat."* 🚀
