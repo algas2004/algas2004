@@ -45,22 +45,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=algas2004&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=algas2004&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-algas2004-181717?style=for-the-badge&logo=github)](https://github.com/algas2004)
