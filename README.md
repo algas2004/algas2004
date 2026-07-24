@@ -1,4 +1,4 @@
-# Hi there 👋, I'm ALGAS SAPUTRA
+# Hi there 👋, I'm Alghas Saputra
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I'm+ALGAS+SAPUTRA;Developer+from+Indonesia;Always+Learning+New+Things" alt="Typing SVG" />
